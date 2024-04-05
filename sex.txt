@@ -11,6 +11,8 @@ RifaT
 P10139u0_a13910139u0_a139D
 LIMON
 P10258u0_a25810258u0_a258D
+ffxxff
+P10309u0_a30910309u0_a309D
 mostakin
 P10242u0_a24210242u0_a242D
 Wi-Fi plus mobile data are all working
